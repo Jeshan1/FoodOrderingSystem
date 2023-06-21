@@ -1,0 +1,27 @@
+.about {
+    background: url('/public/image/about.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50vh;
+    width: 100%;
+ }
+
+ .about-main{
+    display: block;
+    text-align: center;
+    padding-top: 20px;
+ }
+.about-main a{
+    text-decoration: none;
+}
+.about-main button{
+    background-color: rgb(22, 22, 221);
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.nav_title:hover{
+  color: yellow;
+  background-color: white;
+}
